@@ -1,10 +1,10 @@
-### Hi there 👋
+### 👋
 
-Choo choo, experienced train conductor at Postmates. <br />
+Choo choo, I'm an active train conductor at Postmates. <br />
 
-I'm currently working at Postmates remotely developing python projects for the merchant team across our platform. Previously, I worked at TextNow, IBM, and QNX. 
+I'm currently remotely to develop python projects for the merchant team across our food delivery platform. Previously, I worked at TextNow, IBM, and QNX. 
 
-Let's connect sometime, <a href = "mailto: eddie.ren.2013@gmail.com">eddie.ren.2013@gmail.com</a>
+Let's connect sometime, <a href = "mailto: eddie.ren.2013@gmail.com">eddie.ren.2013@gmail.com</a>!
 
 <!--
 **EdwaRen/Edwaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

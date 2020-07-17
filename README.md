@@ -4,6 +4,7 @@ Experienced train conductor at Postmates. <br />
 
 I'm currently working at Postmates remotely developing python projects for the merchant team across our platform. Previously, I worked at TextNow, IBM, and QNX. 
 
+Let's connect sometime!
 
 <!--
 **EdwaRen/Edwaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

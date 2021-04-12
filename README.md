@@ -18,5 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwaren&show_icons=true&locale=en" alt="edwaren" /></p>
 
 - 🔭 Previously I've worked with **Postmates**, **TextNow**, **IBM**, **QNX**, and **Ciena**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwaren&label=Profile%20views&color=0e75b6&style=flat" alt="edwaren" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwaren&label=Profile%20views&color=0e75b6&style=flat" alt="edwaren" /> </p>
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwaren&label=Profile%20views&color=0e75b6&style=flat" alt="edwaren" /> </p>
 
-- 🔭 I’m currently working on **making commerce better at @Shopify**
+- 🔭 I’m currently working at **Shopify**
 
 - ⚡ Fun fact **I like salted caramel**
 
@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwaren&show_icons=true&locale=en" alt="edwaren" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwaren&" alt="edwaren" /></p>
+- 🔭 Previously I've worked with **Postmates**, **TextNow**, **IBM**, **QNX**, and **Ciena**

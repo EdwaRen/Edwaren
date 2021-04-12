@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">A software engineering student at UWaterloo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwaren&label=Profile%20views&color=0e75b6&style=flat" alt="edwaren" /> </p>
-
 - 🔭 I’m currently working at **Shopify**
 
 - ⚡ Fun fact **I like salted caramel**
@@ -20,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwaren&show_icons=true&locale=en" alt="edwaren" /></p>
 
 - 🔭 Previously I've worked with **Postmates**, **TextNow**, **IBM**, **QNX**, and **Ciena**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwaren&label=Profile%20views&color=0e75b6&style=flat" alt="edwaren" /> </p>
+
